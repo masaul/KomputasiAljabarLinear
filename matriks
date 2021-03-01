@@ -1,0 +1,17 @@
+Refrensi : https://www.youtube.com/watch?v=LFNdWi7FnTc&list=PLliucrggF5kheVyNkaIInUTM52MTStyzQ
+           https://www.youtube.com/watch?v=yKquUUZ1u9g&list=PLliucrggF5kheVyNkaIInUTM52MTStyzQ&index=8
+           
+
+Matriks terdiri dari baris dan kolom. cara membacnya baris dulu baru kolom.
+  contoh : |5|
+           |4|    > Cara membacanya yaitu matrix 1 x 4 = 1 itu baris, 4 itu kolom
+           |2|    
+           |1|
+
+
+Syarat penjumlahan/perkurangan matriks
+  - Baris dan kolom harus sama
+Syarat perkalian matriks
+  - jumlah kolom matriks pertama samadengan jumlah baris matriks kedua
+  
+Matriks transpose
