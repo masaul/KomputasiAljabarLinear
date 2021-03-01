@@ -9,12 +9,12 @@ Matriks terdiri dari baris dan kolom. cara membacnya baris dulu baru kolom.
            |1|
 
 
-Syarat penjumlahan/perkurangan matriks
-  - Baris dan kolom harus sama
-Syarat perkalian matriks
-  - jumlah kolom matriks pertama samadengan jumlah baris matriks kedua
+* Syarat penjumlahan/perkurangan matriks
+      - Baris dan kolom harus sama
+* Syarat perkalian matriks
+      - jumlah kolom matriks pertama samadengan jumlah baris matriks kedua
   
-Matriks tranpose
+* Matriks tranpose
     Biasanya disibolkan dengan A' atau AT.
     matriks ini merubah baris menjadi kolom atau sebaliknya..
     contoh :   |2||5||1| menjadi |2||3||9|
