@@ -1,0 +1,16 @@
+import numpy as np
+
+np.matrix([])                   = untuk membuat matriks dengan list
+np.shape(namaVariableMatriks)   = menentukan jumlah matriks
+
+
+==== Operasi =====
+  ++ Penjumlahan matriks ++
+    nameVar1 + nameVar2
+  ++ Pengurangan Matriks ++
+    nameVar1 - nameVar2
+  ++ Perkalian Matriks ++
+    nameVar1 * nameVar2
+    
+==== Refrensi =====
+  Youtube : https://www.youtube.com/watch?v=QjT_Tbsx8b0
